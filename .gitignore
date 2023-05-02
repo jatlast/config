@@ -1,5 +1,5 @@
 # JTB 20230502 3:39 AM
-# Copied from https://github.com/arsaboo/homeassistant-config/blob/master/.gitignore
+# Copied from https://github.com/CCOSTAN/Home-AssistantConfig/blob/master/.gitignore
 *.DISABLED
 *.pid
 *.xml
